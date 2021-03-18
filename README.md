@@ -10,3 +10,6 @@
 + JS
 + Gulp
 + БЭМ
+
+
+![alt-текст](https://i.ibb.co/ng6GY50/PrimeOne.png "Пример страницы")
